@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author barasa
- *
- */
-module Shoppee {
-}
